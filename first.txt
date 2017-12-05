@@ -1,0 +1,2 @@
+第一天
+This is the firstDay that I learned git, git is free and a strong softwore.
